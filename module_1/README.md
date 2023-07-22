@@ -89,6 +89,11 @@
    9.1 Модель - LogisticRegression
    9.2 Модель - RandomForestClassifier
    9.3 Модель - LGBMClassifier
+3. Детальный анализ по переменным  
+  3.1. Restaurant_id  
+  3.2. Cuisine Style (использовалась распаковка вложенных списоков с помощью .extend и collections.Counter, которая оказалась быстрее других способов в том числе специальной библиотеки ast)  
+  3.3. Price Range  
+  3.4. Number of Reviews 
     
 :arrow_up:[к оглавлению](https://github.com/SCUMPLAY/Pet_project/blob/main/module_1/README.md#Оглавление)
 
