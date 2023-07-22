@@ -66,29 +66,29 @@
  - 3.4. Разработка признаком и бинаризация целевой перменной {Score}
  - 3.5. Создания и проверка гипотез.  
 4. Future Engineering
-   4.1. Создания функция которая добавляет возможности в игровую статистику.
-   4.2. Объединяем test и train набора данных, и бинаризуем категориальные и строковые данные.
-   4.2. Заполняем пропуски
+ - 4.1. Создания функция которая добавляет возможности в игровую статистику.
+ - 4.2. Объединяем test и train набора данных, и бинаризуем категориальные и строковые данные.
+ - 4.2. Заполняем пропуски
 5. Modeling 
-   5.1. Добавления функции в которой находится метрики классификации
-   5.2. Добавления функции которая проверяет на переобучаемость модели
-   5.3. Разбиения данных
+ - 5.1. Добавления функции в которой находится метрики классификации
+ - 5.2. Добавления функции которая проверяет на переобучаемость модели
+ - 5.3. Разбиения данных
 6. Basline(5 модели)
-   6.1. LogisticRegression()
-   6.2. XGBClassifier
-   6.3. RandomForestClassifier
-   6.4. LGBMCLassifier
-   6.5. CatBoostClassifier
+ - 6.1. LogisticRegression()
+ - 6.2. XGBClassifier
+ - 6.3. RandomForestClassifier
+ - 6.4. LGBMCLassifier
+ - 6.5. CatBoostClassifier
 7. Tuning(4 модели, добавляем гиерпарметры, и поиск по сетки)
-   7.1. LogisticRegression()
-   7.2. XGBClassifier
-   7.3. RandomForestClassifier
-   7.4. LGBMClassfier
+ - 7.1. LogisticRegression()
+ - 7.2. XGBClassifier
+ - 7.3. RandomForestClassifier
+ - 7.4. LGBMClassfier
 8. Анализ важных признаков с помощью библиотки Shap
 9. StackingClassfier(3 модели лучших по score)
-   9.1. Модель - LogisticRegression
-   9.2. Модель - RandomForestClassifier
-   9.3. Модель - LGBMClassifier
+ - 9.1. Модель - LogisticRegression
+ - 9.2. Модель - RandomForestClassifier
+ - 9.3. Модель - LGBMClassifier
 :arrow_up:[к оглавлению](https://github.com/SCUMPLAY/Pet_project/blob/main/module_1/README.md#Оглавление)
 
 
