@@ -4,13 +4,13 @@
 ![https://img.shields.io/badge/Python-3.7.4-blue](https://img.shields.io/badge/Python-3.7.4-blue)
 
 ## Оглавление  
-[1. Описание модуля](https://github.com/alex-sokolov2011/skillfactory_rds/blob/master/module_3/README.md#Описание-модуля)  
-[2. Какой кейс решаем?](https://github.com/alex-sokolov2011/skillfactory_rds/blob/master/module_3/README.md#Какой-кейс-решаем?)  
-[3. Краткая информация о данных](https://github.com/alex-sokolov2011/skillfactory_rds/blob/master/module_3/README.md#Краткая-информация-о-данных)  
-[4. Полное описание задания с kaggle](https://github.com/alex-sokolov2011/skillfactory_rds/blob/master/module_3/README.md#Полное-описание-задания-с-kaggle)  
-[5. Шаблон ноутбука с параметрами модели](https://github.com/alex-sokolov2011/skillfactory_rds/blob/master/module_3/README.md#Шаблон-ноутбука-с-параметрами-модели)  
-[6. Краткое описание проделанной работы](https://github.com/alex-sokolov2011/skillfactory_rds/blob/master/module_3/README.md#Краткое-описание-проделанной-работы)  
-[7. Результат](https://github.com/alex-sokolov2011/skillfactory_rds/blob/master/module_3/README.md#Результат)  
+[1. Описание модуля](https://github.com/SCUMPLAY/Pet_project/edit/main/module_1/README.md#Описание-модуля)  
+[2. Какой кейс решаем?](https://github.com/SCUMPLAY/Pet_project/edit/main/module_1/README.md#Какой-кейс-решаем?)  
+[3. Краткая информация о данных](https://github.com/SCUMPLAY/Pet_project/edit/main/module_1/README.md#Краткая-информация-о-данных)  
+[4. Полное описание задания с kaggle](https://github.com/SCUMPLAY/Pet_project/edit/main/module_1/README.md#Полное-описание-задания-с-kaggle)  
+[5. Шаблон ноутбука с параметрами модели](https://github.com/SCUMPLAY/Pet_project/edit/main/module_1/README.md#Шаблон-ноутбука-с-параметрами-модели)  
+[6. Краткое описание проделанной работы](https://github.com/SCUMPLAY/Pet_project/edit/main/module_1/README.md#Краткое-описание-проделанной-работы)  
+[7. Результат](https://github.com/SCUMPLAY/Pet_project/edit/main/module_1/README.md#Результат)  
 
 
 ### Описание модуля  
@@ -23,7 +23,7 @@
 В этом модуле вы попробуете решить свой первый настоящий кейс и создадите первую модель, использующую алгоритмы машинного обучения.  
 Не пугайтесь, вам не придётся совершать академический подвиг и изучать машинное обучение в экстремально короткие сроки! На самом деле код для создания и обучения модели мы вам предоставим в готовом виде, и этот код будет довольно простым: в нём не будет предусмотрен подбор параметров и тонкая настройка модели (всему этому вы научитесь позже, в курсе по ML). Пока ваша задача будет состоять в том, чтобы качественно подготовить данные для обучения модели. Скоро вы убедитесь, что тщательная очистка данных и генерация новых признаков (Feature Engineering ) способны повысить точность модели в 2 и более раз, и владение этими навыками играют в машинном обучении не меньшую роль, чем умение выбрать алгоритм и настроить модель.  
 Итак, факт остается фактом: свою первую модель вы создадите уже через пару недель, а после этого, в следующие две недели, используете свои наработки для участия в первом в вашей жизни соревновании на платформе Zindi.ru  
-:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/skillfactory_rds/blob/master/module_3/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/SCUMPLAY/Pet_project/edit/main/module_1/README.md#Оглавление)
 
 ### Какой кейс решаем?
 Футбол превратился в вид спорта на континенте, любим почти повсеместно и фанатично. Болельщики всегда пытались определить исход матча, а теперь с данными, полученными с разных датчиков и камер, вы можете делать эти прогнозы с большей уверенностью.
@@ -31,9 +31,9 @@
 
 ### Краткая информация о данных
 Данные для этой задачи собирались в течение 3 лет после 23 команд в африканской стране. Имена игрока и команды скрыты.
-Датасет представлен в репозитории в папке [**Data** ](https://github.com/alex-sokolov2011/skillfactory_rds/blob/master/module_3/data)  
+Датасет представлен в репозитории в папке [**Data** ](https://github.com/SCUMPLAY/Pet_project/edit/main/module_1/Data)  
 
-:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/skillfactory_rds/blob/master/module_3/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/SCUMPLAY/Pet_project/edit/main/module_1/README.md#Оглавление)
 
 ### Полное описание задания с zindi 
 Данные включают в себя удары, передачи, захваты и ведение мяча — любое действие, которое происходит на игровом поле, записывается вместе с местом, где произошло событие (координаты X и Y). В случае пасов также есть точки конца X и конца Y — откуда и куда был сделан пас, а также кто отдал и кто получил мяч.
@@ -46,13 +46,13 @@
 - Решения буду проверяться преподавателями на их адекватность и воспроизводимость.  
 
 Во вкладке Notebooks этого соревнования для Вас доступно Базовое решение (Baseline)
-:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/skillfactory_rds/blob/master/module_3/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/SCUMPLAY/Pet_project/edit/main/module_1/README.md#Оглавление)
 
 ### Шаблон ноутбука с параметрами модели  
 Базовое решение (Baseline) содержит настройки для модели (LGBMClassfier) == ```model = LGBMClassfier(n_estimators=1000, random_state=RAND, objective = 'multiclass')```  
-Полностью ноутбук с базовым решением (Baseline) можно посмотреть [по ссылке](https://github.com/alex-sokolov2011/skillfactory_rds/blob/master/module_3/baseline_notebook).  
+Полностью ноутбук с базовым решением (Baseline) можно посмотреть [по ссылке](https://github.com/SCUMPLAY/Pet_project/edit/main/module_1/Notebooks).  
 
-:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/skillfactory_rds/blob/master/module_3/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/SCUMPLAY/Pet_project/edit/main/module_1/README.md#Оглавление)
 
 ### Краткое описание проделанной работы
 
@@ -90,7 +90,7 @@
    9.2 Модель - RandomForestClassifier
    9.3 Модель - LGBMClassifier
     
-:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/skillfactory_rds/blob/master/module_3/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/SCUMPLAY/Pet_project/edit/main/module_1/README.md#Оглавление)
 
 
 ### Результат  
@@ -101,4 +101,4 @@
   - Соблюдение стандартов оформления pep-8 = 75  
   - Наличие визуализации с выводами (корреляция и важность признаков) = 100  
   - Feature Engineering и обогащение датасета = 100, Работа с метрикой Logloss= 100      
-:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/skillfactory_rds/blob/master/module_3/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/SCUMPLAY/Pet_project/edit/main/module_1/README.md#Оглавление)
